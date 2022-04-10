@@ -22,7 +22,7 @@ let parsedInput = parseInt(input.value)
 
 function render() {
     if (sum < 0) {
-        H1.innerHTML.style.color = 'red'
+        H1.style.color = 'red'
     }
 }
 
@@ -38,8 +38,7 @@ function calculate(e) {
     }
 }
 
-        // render function for some reason doesn't work, I am out
-    //   of energy 
+ 
 
 
 
