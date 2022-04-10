@@ -1,0 +1,53 @@
+
+
+
+#counter {
+    text-align: center; 
+    margin-top: 13rem; 
+}
+
+#main {
+    display: flex; 
+    margin: auto; 
+    justify-content: space-between;
+    flex-direction: row; 
+    width: 170px; 
+    height: 400px; 
+
+}
+
+#input {
+    width: 50px; 
+    height: 30px; 
+    text-align: center;
+    border: 3px solid grey; 
+    border-radius: 4px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px; 
+    
+}
+
+
+.buttons {
+    height: 38px; 
+    width: 38px; 
+    font-size: 23px; 
+    border: 3px solid grey; 
+    border-radius: 4px; 
+    color: white; 
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.buttons:hover {
+    background-color: white; 
+    color: black; 
+}
+
+
+H1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
