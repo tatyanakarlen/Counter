@@ -23,6 +23,8 @@ let parsedInput = parseInt(input.value)
 function render() {
     if (sum < 0) {
         H1.style.color = 'red'
+    } else {
+        H1.style.color = 'black'
     }
 }
 
